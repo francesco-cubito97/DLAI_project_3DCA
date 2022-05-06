@@ -3,4 +3,5 @@
 
 <code>binvox_rw.py</code> was taken from [here]( https://github.com/dimatura/binvox-rw-py)
 
-
+# Results
+![Cow model gif](./cow_model_fpf_n_100.gif)
