@@ -1,7 +1,10 @@
 # DLAI_project_3D_NCA
 3D neural cellular automaton able to reproduce simple voxels patterns starting from one single cell and learning the underling set of rules.
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/francesco-cubito97/DLAI_project_3D_NCA/blob/main/Final_DLAI_project_Growing3D_NCA.ipynb)
+
+The project can be directly open from this button [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/francesco-cubito97/DLAI_project_3D_NCA/blob/main/Final_DLAI_project_Growing3D_NCA.ipynb)
+
 Follows the model architecture:
+
 ![Model architecture](./Model_Architecture.png)
 
 ## External resources
