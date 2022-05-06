@@ -1,7 +1,12 @@
 # DLAI_project_3D_NCA
 3D neural cellular automaton able to reproduce simple voxels patterns starting from one single cell and learning the underling set of rules.
 
+## External resources
 <code>binvox_rw.py</code> was taken from [here]( https://github.com/dimatura/binvox-rw-py)
+The project taken inspiration from [this](https://distill.pub/2020/growing-ca/) link
 
-# Results
+## Results
+Follows the results obtained with the trained models:
 ![Cow model gif](./cow_model_fpf_n_100.gif)
+![Cow model gif](./fox_model_fpf_n_100.gif)
+
