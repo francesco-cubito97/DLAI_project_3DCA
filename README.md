@@ -7,6 +7,8 @@ The project taken inspiration from [this](https://distill.pub/2020/growing-ca/) 
 
 ## Results
 Follows the results obtained with the trained models:
+
 ![Cow model gif](./cow_model_fpf_n_100.gif)
-![Cow model gif](./fox_model_fpf_n_100.gif)
+
+![Fox model gif](./fox_model_fpf_n_100.gif)
 
