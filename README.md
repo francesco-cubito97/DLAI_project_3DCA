@@ -13,6 +13,6 @@ Follows the results obtained with the trained models:
 ![Fox model gif](./fox_model_fpf_n_100.gif)
 
 ## Evaluation results
-Follows the plot of losses with fixed and not-fixed perception filter with both objects:
+Follow the plota of losses with fixed and not-fixed perception filter with both objects:
 
 ![Plot loss cow](./plot_loss_cow.png) ![Plot loss fox](./plot_loss_fox.png)
